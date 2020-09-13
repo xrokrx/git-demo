@@ -6,5 +6,5 @@ This is the first file in this repo.
 
 Hello Friends.
 
-Some more text here.
-Hello Second Friend.
+##Website contents
+1. index.html
